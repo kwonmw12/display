@@ -1,0 +1,38 @@
+.text1 {
+  color: #b8e9ff;
+}
+
+.text2 {
+  color: #ffb1dd;
+}
+
+.page-section {
+  padding: 6rem 0;
+}
+
+.sub {
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.sw1 {
+  background-image: url(http://kwonmw13.cafe24.com/trost/kmw/img/cupon.png);
+}
+
+.sw2 {
+  background-image: url(http://kwonmw13.cafe24.com/trost/kmw/img/cupon2.png);
+}
+
+.sw3 {
+  background-image: url(http://kwonmw13.cafe24.com/trost/kmw/img/cupon3.png);
+}
+
+.swiper-slide {
+  background-repeat: no-repeat;
+  background-size: 75%;
+  background-position: center;
+  bottom: 0;
+  left: 0;
+  height: 200px;
+}
